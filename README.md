@@ -110,7 +110,8 @@ footer{
 </section>
 
 <footer>
-    <p>Projeto Agrinho 2026 - Desenvolvido por Seu Nome</p>
+    <p>Projeto Agrinho 2026 - Desenvolvido por Andressa Vitória 
+    </p>
 </footer>
 
 </body>
